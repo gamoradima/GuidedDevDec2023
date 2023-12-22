@@ -19,6 +19,8 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_lihvlhv_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_82224lg_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.MenuItem_5sittcu_caption.Value" Value="Calculate average price" />
+			<Item Name="LocalizableStrings.MenuItem_bshj8h4_caption.Value" Value="Get gold rates" />
+			<Item Name="LocalizableStrings.MenuItem_s5fncnm_caption.Value" Value="Calculate total price" />
 			<Item Name="LocalizableStrings.NumberInput_zeengaf_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
 		</Items>
